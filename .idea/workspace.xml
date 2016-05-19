@@ -10,23 +10,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4c31f654-8267-4f07-8247-0575cf720c63" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/GreenBot2016/build/intermediates/pre-dexed/debug/GreenBot2016-iOIOLib-unspecified_e09f8bf48a6fe7293e64835fc738f93366ee7695.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/GreenBot2016/build/intermediates/pre-dexed/debug/GreenBot2016-iOIOiRobot2-unspecified_17fa734007f0368594c6bed021affc8f0303a921.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/GreenBot2016/build/intermediates/pre-dexed/debug/com.android.support-support-v4-22.1.1_3106485a75c1ec0ce9258f2af60ecf9e91bc5a2d.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/GreenBot2016/build/intermediates/pre-dexed/debug/debug_5d8e182dd3bca3833ec14213930d6518fbb1ade6.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/GreenBot2016/build/intermediates/pre-dexed/debug/internal_impl-22.1.1_811a2429a848425b1d84636f4385428e5849346d.jar" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GreenBot2016/build/outputs/apk/GreenBot2016-debug-unaligned.apk" afterPath="$PROJECT_DIR$/GreenBot2016/build/outputs/apk/GreenBot2016-debug-unaligned.apk" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GreenBot2016/build/outputs/apk/GreenBot2016-debug.apk" afterPath="$PROJECT_DIR$/GreenBot2016/build/outputs/apk/GreenBot2016-debug.apk" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GreenBot2016/build/intermediates/classes/debug/org/jointheleague/erik/cleverrobot/Pilot.class" afterPath="$PROJECT_DIR$/GreenBot2016/build/intermediates/classes/debug/org/jointheleague/erik/cleverrobot/Pilot.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.8/taskArtifacts/cache.properties.lock" afterPath="$PROJECT_DIR$/.gradle/2.8/taskArtifacts/cache.properties.lock" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GreenBot2016/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex" afterPath="$PROJECT_DIR$/GreenBot2016/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GreenBot2016/build/intermediates/exploded-aar/GreenBot2016/iOIOLib/unspecified/jars/classes.jar" afterPath="$PROJECT_DIR$/GreenBot2016/build/intermediates/exploded-aar/GreenBot2016/iOIOLib/unspecified/jars/classes.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GreenBot2016/build/intermediates/exploded-aar/GreenBot2016/iOIOiRobot2/unspecified/jars/classes.jar" afterPath="$PROJECT_DIR$/GreenBot2016/build/intermediates/exploded-aar/GreenBot2016/iOIOiRobot2/unspecified/jars/classes.jar" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/iOIOLib/build/intermediates/bundles/debug/classes.jar" afterPath="$PROJECT_DIR$/iOIOLib/build/intermediates/bundles/debug/classes.jar" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/iOIOLib/build/intermediates/bundles/release/classes.jar" afterPath="$PROJECT_DIR$/iOIOLib/build/intermediates/bundles/release/classes.jar" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/iOIOiRobot2/build/intermediates/bundles/debug/classes.jar" afterPath="$PROJECT_DIR$/iOIOiRobot2/build/intermediates/bundles/debug/classes.jar" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/iOIOiRobot2/build/intermediates/bundles/release/classes.jar" afterPath="$PROJECT_DIR$/iOIOiRobot2/build/intermediates/bundles/release/classes.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/iOIOiRobot2/build/intermediates/exploded-aar/GreenBot2016/iOIOLib/unspecified/jars/classes.jar" afterPath="$PROJECT_DIR$/iOIOiRobot2/build/intermediates/exploded-aar/GreenBot2016/iOIOLib/unspecified/jars/classes.jar" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.8/taskArtifacts/fileHashes.bin" afterPath="$PROJECT_DIR$/.gradle/2.8/taskArtifacts/fileHashes.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.8/taskArtifacts/fileSnapshots.bin" afterPath="$PROJECT_DIR$/.gradle/2.8/taskArtifacts/fileSnapshots.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/iOIOLib/build/outputs/aar/iOIOLib-debug.aar" afterPath="$PROJECT_DIR$/iOIOLib/build/outputs/aar/iOIOLib-debug.aar" />
@@ -40,7 +32,6 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GreenBot2016/build/intermediates/res/resources-debug.ap_" afterPath="$PROJECT_DIR$/GreenBot2016/build/intermediates/res/resources-debug.ap_" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GreenBot2016/build/intermediates/pre-dexed/debug/support-annotations-22.1.1_df103917a223e607a3eed27c98cf0bf30a239ab3.jar" afterPath="$PROJECT_DIR$/GreenBot2016/build/intermediates/pre-dexed/debug/support-annotations-22.1.1_df103917a223e607a3eed27c98cf0bf30a239ab3.jar" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.8/taskArtifacts/taskArtifacts.bin" afterPath="$PROJECT_DIR$/.gradle/2.8/taskArtifacts/taskArtifacts.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GreenBot2016/src/main/java/org/jointheleague/erik/cleverrobot/Pilot.java" afterPath="$PROJECT_DIR$/GreenBot2016/src/main/java/org/jointheleague/erik/cleverrobot/Pilot.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GreenBot2016/build/intermediates/blame/res/debug/single/drawable-hdpi-v4.json" afterPath="$PROJECT_DIR$/GreenBot2016/build/intermediates/blame/res/debug/single/drawable-hdpi-v4.json" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/iOIOLib/build/intermediates/blame/res/androidTest/debug/single/drawable-hdpi-v4.json" afterPath="$PROJECT_DIR$/iOIOLib/build/intermediates/blame/res/androidTest/debug/single/drawable-hdpi-v4.json" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/iOIOiRobot2/build/intermediates/blame/res/androidTest/debug/single/drawable-hdpi-v4.json" afterPath="$PROJECT_DIR$/iOIOiRobot2/build/intermediates/blame/res/androidTest/debug/single/drawable-hdpi-v4.json" />
@@ -86,8 +77,6 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/iOIOiRobot2/build/intermediates/incremental/mergeReleaseResources/merger.xml" afterPath="$PROJECT_DIR$/iOIOiRobot2/build/intermediates/incremental/mergeReleaseResources/merger.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/iOIOiRobot2/build/intermediates/incremental/packageDebugResources/merger.xml" afterPath="$PROJECT_DIR$/iOIOiRobot2/build/intermediates/incremental/packageDebugResources/merger.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/iOIOiRobot2/build/intermediates/incremental/packageReleaseResources/merger.xml" afterPath="$PROJECT_DIR$/iOIOiRobot2/build/intermediates/incremental/packageReleaseResources/merger.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/support_v4_22_1_1.xml" afterPath="$PROJECT_DIR$/.idea/libraries/support_v4_22_1_1.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GreenBot2016/build/intermediates/blame/res/debug/multi/values.json" afterPath="$PROJECT_DIR$/GreenBot2016/build/intermediates/blame/res/debug/multi/values.json" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/iOIOLib/build/intermediates/blame/res/androidTest/debug/multi/values.json" afterPath="$PROJECT_DIR$/iOIOLib/build/intermediates/blame/res/androidTest/debug/multi/values.json" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/iOIOiRobot2/build/intermediates/blame/res/androidTest/debug/multi/values.json" afterPath="$PROJECT_DIR$/iOIOiRobot2/build/intermediates/blame/res/androidTest/debug/multi/values.json" />
@@ -3485,6 +3474,13 @@
       <option name="number" value="Default" />
       <updated>1459982031265</updated>
     </task>
+    <task id="LOCAL-00001" summary="Hoi">
+      <created>1463702263713</created>
+      <option name="number" value="00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1463702263713</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -3532,6 +3528,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Hoi" />
+    <option name="LAST_COMMIT_MESSAGE" value="Hoi" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
