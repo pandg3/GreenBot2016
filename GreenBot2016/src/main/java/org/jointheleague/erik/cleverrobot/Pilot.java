@@ -51,11 +51,29 @@ public class Pilot extends IRobotAdapter {
 
     /** This method is called repeatedly. **/
     public void loop() throws ConnectionLostException {
+            readSensors(SENSORS_GROUP_ID6);
+
+            dashboard.log(getWallSignal() + "");
+            drive(200,-220);
+            if (isBumpRight() == true || getWallSignal() >30) {
+                dashboard.log("Bump - Left");
+                driveDirect(-400, 500);
+                SystemClock.sleep(3);
+            }
+            else if (isBumpRight() == true && isBumpLeft() == true) {
+                dashboard.log("Bump - Both");
+                driveDirect(-400, 500);
+                SystemClock.sleep(3);
+            }
+
+            }
 
 
 
 
-    }
+
+
+
 
     /**
      * This method determines where to go next. This is a very simple Tortoise-like

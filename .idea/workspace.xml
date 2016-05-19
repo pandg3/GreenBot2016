@@ -10,245 +10,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4c31f654-8267-4f07-8247-0575cf720c63" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/GreenBot2016/build/intermediates/blame/res/debug/multi/values-af.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/GreenBot2016/build/intermediates/blame/res/debug/multi/values-am.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/GreenBot2016/build/intermediates/blame/res/debug/multi/values-ar.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/GreenBot2016/build/intermediates/blame/res/debug/multi/values-az-rAZ.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/GreenBot2016/build/intermediates/blame/res/debug/multi/values-bg.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/GreenBot2016/build/intermediates/blame/res/debug/multi/values-bn-rBD.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/GreenBot2016/build/intermediates/blame/res/debug/multi/values-ca.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/GreenBot2016/build/intermediates/blame/res/debug/multi/values-cs.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/GreenBot2016/build/intermediates/blame/res/debug/multi/values-da.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/GreenBot2016/build/intermediates/blame/res/debug/multi/values-de.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/GreenBot2016/build/intermediates/blame/res/debug/multi/values-el.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/GreenBot2016/build/intermediates/blame/res/debug/multi/values-en-rAU.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/GreenBot2016/build/intermediates/blame/res/debug/multi/values-en-rGB.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/GreenBot2016/build/intermediates/blame/res/debug/multi/values-en-rIN.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/GreenBot2016/build/intermediates/blame/res/debug/multi/values-es-rUS.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/GreenBot2016/build/intermediates/blame/res/debug/multi/values-es.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/GreenBot2016/build/intermediates/blame/res/debug/multi/values-et-rEE.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/GreenBot2016/build/intermediates/blame/res/debug/multi/values-eu-rES.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/GreenBot2016/build/intermediates/blame/res/debug/multi/values-fa.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/GreenBot2016/build/intermediates/blame/res/debug/multi/values-fi.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/GreenBot2016/build/intermediates/blame/res/debug/multi/values-fr-rCA.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/GreenBot2016/build/intermediates/blame/res/debug/multi/values-fr.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/GreenBot2016/build/intermediates/blame/res/debug/multi/values-gl-rES.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/GreenBot2016/build/intermediates/blame/res/debug/multi/values-gu-rIN.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/GreenBot2016/build/intermediates/blame/res/debug/multi/values-hi.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/GreenBot2016/build/intermediates/blame/res/debug/multi/values-hr.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/GreenBot2016/build/intermediates/blame/res/debug/multi/values-hu.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/GreenBot2016/build/intermediates/blame/res/debug/multi/values-hy-rAM.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/GreenBot2016/build/intermediates/blame/res/debug/multi/values-in.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/GreenBot2016/build/intermediates/blame/res/debug/multi/values-is-rIS.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/GreenBot2016/build/intermediates/blame/res/debug/multi/values-it.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/GreenBot2016/build/intermediates/blame/res/debug/multi/values-iw.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/GreenBot2016/build/intermediates/blame/res/debug/multi/values-ja.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/GreenBot2016/build/intermediates/blame/res/debug/multi/values-ka-rGE.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/GreenBot2016/build/intermediates/blame/res/debug/multi/values-kk-rKZ.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/GreenBot2016/build/intermediates/blame/res/debug/multi/values-km-rKH.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/GreenBot2016/build/intermediates/blame/res/debug/multi/values-kn-rIN.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/GreenBot2016/build/intermediates/blame/res/debug/multi/values-ko.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/GreenBot2016/build/intermediates/blame/res/debug/multi/values-ky-rKG.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/GreenBot2016/build/intermediates/blame/res/debug/multi/values-lo-rLA.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/GreenBot2016/build/intermediates/blame/res/debug/multi/values-lt.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/GreenBot2016/build/intermediates/blame/res/debug/multi/values-lv.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/GreenBot2016/build/intermediates/blame/res/debug/multi/values-mk-rMK.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/GreenBot2016/build/intermediates/blame/res/debug/multi/values-ml-rIN.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/GreenBot2016/build/intermediates/blame/res/debug/multi/values-mn-rMN.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/GreenBot2016/build/intermediates/blame/res/debug/multi/values-mr-rIN.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/GreenBot2016/build/intermediates/blame/res/debug/multi/values-ms-rMY.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/GreenBot2016/build/intermediates/blame/res/debug/multi/values-my-rMM.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/GreenBot2016/build/intermediates/blame/res/debug/multi/values-nb.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/GreenBot2016/build/intermediates/blame/res/debug/multi/values-ne-rNP.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/GreenBot2016/build/intermediates/blame/res/debug/multi/values-nl.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/GreenBot2016/build/intermediates/blame/res/debug/multi/values-pa-rIN.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/GreenBot2016/build/intermediates/blame/res/debug/multi/values-pl.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/GreenBot2016/build/intermediates/blame/res/debug/multi/values-pt-rBR.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/GreenBot2016/build/intermediates/blame/res/debug/multi/values-pt-rPT.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/GreenBot2016/build/intermediates/blame/res/debug/multi/values-pt.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/GreenBot2016/build/intermediates/blame/res/debug/multi/values-ro.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/GreenBot2016/build/intermediates/blame/res/debug/multi/values-ru.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/GreenBot2016/build/intermediates/blame/res/debug/multi/values-si-rLK.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/GreenBot2016/build/intermediates/blame/res/debug/multi/values-sk.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/GreenBot2016/build/intermediates/blame/res/debug/multi/values-sl.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/GreenBot2016/build/intermediates/blame/res/debug/multi/values-sq-rAL.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/GreenBot2016/build/intermediates/blame/res/debug/multi/values-sr.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/GreenBot2016/build/intermediates/blame/res/debug/multi/values-sv.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/GreenBot2016/build/intermediates/blame/res/debug/multi/values-sw.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/GreenBot2016/build/intermediates/blame/res/debug/multi/values-ta-rIN.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/GreenBot2016/build/intermediates/blame/res/debug/multi/values-te-rIN.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/GreenBot2016/build/intermediates/blame/res/debug/multi/values-th.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/GreenBot2016/build/intermediates/blame/res/debug/multi/values-tl.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/GreenBot2016/build/intermediates/blame/res/debug/multi/values-tr.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/GreenBot2016/build/intermediates/blame/res/debug/multi/values-uk.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/GreenBot2016/build/intermediates/blame/res/debug/multi/values-ur-rPK.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/GreenBot2016/build/intermediates/blame/res/debug/multi/values-uz-rUZ.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/GreenBot2016/build/intermediates/blame/res/debug/multi/values-vi.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/GreenBot2016/build/intermediates/blame/res/debug/multi/values-zh-rCN.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/GreenBot2016/build/intermediates/blame/res/debug/multi/values-zh-rHK.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/GreenBot2016/build/intermediates/blame/res/debug/multi/values-zh-rTW.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/GreenBot2016/build/intermediates/blame/res/debug/multi/values-zu.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/GreenBot2016/build/intermediates/blame/res/debug/single/color.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/GreenBot2016/build/intermediates/blame/res/debug/single/drawable-tvdpi-v4.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/GreenBot2016/build/intermediates/blame/res/debug/single/drawable-xxhdpi-v4.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/GreenBot2016/build/intermediates/exploded-aar/CleverRobot/iOIOLib/unspecified/AndroidManifest.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/GreenBot2016/build/intermediates/exploded-aar/CleverRobot/iOIOLib/unspecified/R.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/GreenBot2016/build/intermediates/exploded-aar/CleverRobot/iOIOLib/unspecified/aapt/AndroidManifest.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/GreenBot2016/build/intermediates/exploded-aar/CleverRobot/iOIOLib/unspecified/jars/classes.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/GreenBot2016/build/intermediates/exploded-aar/CleverRobot/iOIOLib/unspecified/res/drawable-hdpi-v4/ic_action_search.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/GreenBot2016/build/intermediates/exploded-aar/CleverRobot/iOIOLib/unspecified/res/drawable-hdpi-v4/ic_launcher.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/GreenBot2016/build/intermediates/exploded-aar/CleverRobot/iOIOLib/unspecified/res/drawable-mdpi-v4/ic_action_search.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/GreenBot2016/build/intermediates/exploded-aar/CleverRobot/iOIOLib/unspecified/res/drawable-mdpi-v4/ic_launcher.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/GreenBot2016/build/intermediates/exploded-aar/CleverRobot/iOIOLib/unspecified/res/drawable-xhdpi-v4/ic_action_search.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/GreenBot2016/build/intermediates/exploded-aar/CleverRobot/iOIOLib/unspecified/res/drawable-xhdpi-v4/ic_launcher.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/GreenBot2016/build/intermediates/exploded-aar/CleverRobot/iOIOLib/unspecified/res/values/values.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/GreenBot2016/build/intermediates/exploded-aar/CleverRobot/iOIOiRobot2/unspecified/AndroidManifest.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/GreenBot2016/build/intermediates/exploded-aar/CleverRobot/iOIOiRobot2/unspecified/R.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/GreenBot2016/build/intermediates/exploded-aar/CleverRobot/iOIOiRobot2/unspecified/aapt/AndroidManifest.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/GreenBot2016/build/intermediates/exploded-aar/CleverRobot/iOIOiRobot2/unspecified/jars/classes.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/GreenBot2016/build/intermediates/exploded-aar/CleverRobot/iOIOiRobot2/unspecified/res/layout/main.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/GreenBot2016/build/intermediates/exploded-aar/CleverRobot/iOIOiRobot2/unspecified/res/values/values.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/GreenBot2016/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/AndroidManifest.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/GreenBot2016/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/aapt/AndroidManifest.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/GreenBot2016/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/aidl/android/support/v4/media/MediaMetadataCompat.aidl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/GreenBot2016/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/aidl/android/support/v4/media/RatingCompat.aidl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/GreenBot2016/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/aidl/android/support/v4/media/session/MediaSessionCompat.aidl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/GreenBot2016/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/aidl/android/support/v4/media/session/ParcelableVolumeInfo.aidl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/GreenBot2016/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/aidl/android/support/v4/media/session/PlaybackStateCompat.aidl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/GreenBot2016/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/annotations.zip" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/GreenBot2016/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/classes.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/GreenBot2016/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/libs/internal_impl-22.2.0.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/GreenBot2016/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/8.1.0/AndroidManifest.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/GreenBot2016/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/8.1.0/R.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/GreenBot2016/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/8.1.0/jars/classes.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/GreenBot2016/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/8.1.0/proguard.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/GreenBot2016/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/AndroidManifest.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/GreenBot2016/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/R.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/GreenBot2016/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/jars/classes.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/GreenBot2016/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/proguard.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/GreenBot2016/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/color/common_signin_btn_text_dark.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/GreenBot2016/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/color/common_signin_btn_text_light.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/GreenBot2016/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/drawable-hdpi/common_full_open_on_phone.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/GreenBot2016/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/drawable-hdpi/common_ic_googleplayservices.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/GreenBot2016/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/drawable-mdpi/common_full_open_on_phone.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/GreenBot2016/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/drawable-tvdpi/common_full_open_on_phone.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/GreenBot2016/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/drawable-xhdpi/common_full_open_on_phone.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/GreenBot2016/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/drawable-xxhdpi/common_full_open_on_phone.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/GreenBot2016/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-af/common_strings.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/GreenBot2016/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-am/common_strings.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/GreenBot2016/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-ar/common_strings.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/GreenBot2016/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-az-rAZ/common_strings.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/GreenBot2016/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-bg/common_strings.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/GreenBot2016/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-bn-rBD/common_strings.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/GreenBot2016/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-ca/common_strings.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/GreenBot2016/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-cs/common_strings.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/GreenBot2016/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-da/common_strings.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/GreenBot2016/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-de/common_strings.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/GreenBot2016/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-el/common_strings.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/GreenBot2016/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-en-rAU/common_strings.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/GreenBot2016/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-en-rGB/common_strings.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/GreenBot2016/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-en-rIN/common_strings.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/GreenBot2016/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-es-rUS/common_strings.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/GreenBot2016/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-es/common_strings.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/GreenBot2016/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-et-rEE/common_strings.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/GreenBot2016/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-eu-rES/common_strings.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/GreenBot2016/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-fa/common_strings.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/GreenBot2016/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-fi/common_strings.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/GreenBot2016/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-fr-rCA/common_strings.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/GreenBot2016/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-fr/common_strings.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/GreenBot2016/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-gl-rES/common_strings.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/GreenBot2016/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-gu-rIN/common_strings.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/GreenBot2016/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-hi/common_strings.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/GreenBot2016/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-hr/common_strings.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/GreenBot2016/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-hu/common_strings.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/GreenBot2016/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-hy-rAM/common_strings.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/GreenBot2016/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-in/common_strings.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/GreenBot2016/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-is-rIS/common_strings.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/GreenBot2016/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-it/common_strings.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/GreenBot2016/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-iw/common_strings.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/GreenBot2016/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-ja/common_strings.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/GreenBot2016/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-ka-rGE/common_strings.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/GreenBot2016/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-kk-rKZ/common_strings.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/GreenBot2016/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-km-rKH/common_strings.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/GreenBot2016/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-kn-rIN/common_strings.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/GreenBot2016/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-ko/common_strings.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/GreenBot2016/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-ky-rKG/common_strings.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/GreenBot2016/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-lo-rLA/common_strings.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/GreenBot2016/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-lt/common_strings.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/GreenBot2016/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-lv/common_strings.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/GreenBot2016/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-mk-rMK/common_strings.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/GreenBot2016/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-ml-rIN/common_strings.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/GreenBot2016/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-mn-rMN/common_strings.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/GreenBot2016/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-mr-rIN/common_strings.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/GreenBot2016/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-ms-rMY/common_strings.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/GreenBot2016/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-my-rMM/common_strings.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/GreenBot2016/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-nb/common_strings.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/GreenBot2016/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-ne-rNP/common_strings.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/GreenBot2016/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-nl/common_strings.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/GreenBot2016/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-pa-rIN/common_strings.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/GreenBot2016/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-pl/common_strings.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/GreenBot2016/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-pt-rBR/common_strings.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/GreenBot2016/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-pt-rPT/common_strings.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/GreenBot2016/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-pt/common_strings.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/GreenBot2016/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-ro/common_strings.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/GreenBot2016/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-ru/common_strings.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/GreenBot2016/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-si-rLK/common_strings.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/GreenBot2016/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-sk/common_strings.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/GreenBot2016/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-sl/common_strings.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/GreenBot2016/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-sq-rAL/common_strings.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/GreenBot2016/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-sr/common_strings.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/GreenBot2016/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-sv/common_strings.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/GreenBot2016/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-sw/common_strings.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/GreenBot2016/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-ta-rIN/common_strings.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/GreenBot2016/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-te-rIN/common_strings.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/GreenBot2016/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-th/common_strings.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/GreenBot2016/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-tl/common_strings.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/GreenBot2016/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-tr/common_strings.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/GreenBot2016/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-uk/common_strings.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/GreenBot2016/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-ur-rPK/common_strings.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/GreenBot2016/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-uz-rUZ/common_strings.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/GreenBot2016/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-vi/common_strings.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/GreenBot2016/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-zh-rCN/common_strings.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/GreenBot2016/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-zh-rHK/common_strings.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/GreenBot2016/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-zh-rTW/common_strings.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/GreenBot2016/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-zu/common_strings.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/GreenBot2016/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values/auth_strings.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/GreenBot2016/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values/common_attrs.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/GreenBot2016/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values/common_colors.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/GreenBot2016/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values/common_strings.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/GreenBot2016/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values/version.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/GreenBot2016/build/intermediates/pre-dexed/debug/GreenBot2016-iOIOLib-unspecified_3ef4f796278ea0f41f3a46893491b8f2d6ba0d86.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/GreenBot2016/build/intermediates/pre-dexed/debug/GreenBot2016-iOIOiRobot2-unspecified_7f8428c414f08e7903fab57b4152c4047fb7661b.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/GreenBot2016/build/intermediates/pre-dexed/debug/com.android.support-support-v4-22.1.1_0d9f11f0fa3832eb2bb62f71c7001358cbe2ee4e.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/GreenBot2016/build/intermediates/pre-dexed/debug/debug_b212785d37f42b966a46d592de8810da5f220690.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/GreenBot2016/build/intermediates/pre-dexed/debug/internal_impl-22.1.1_c00d5cbe043c5d4a8bb9e5c11511cee91cc94f84.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/GreenBot2016/build/outputs/apk/cleverRobot-debug-unaligned.apk" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/GreenBot2016/build/outputs/apk/cleverRobot-debug.apk" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/iOIOiRobot2/build/intermediates/exploded-aar/CleverRobot/iOIOLib/unspecified/AndroidManifest.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/iOIOiRobot2/build/intermediates/exploded-aar/CleverRobot/iOIOLib/unspecified/R.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/iOIOiRobot2/build/intermediates/exploded-aar/CleverRobot/iOIOLib/unspecified/aapt/AndroidManifest.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/iOIOiRobot2/build/intermediates/exploded-aar/CleverRobot/iOIOLib/unspecified/jars/classes.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/iOIOiRobot2/build/intermediates/exploded-aar/CleverRobot/iOIOLib/unspecified/res/drawable-hdpi-v4/ic_action_search.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/iOIOiRobot2/build/intermediates/exploded-aar/CleverRobot/iOIOLib/unspecified/res/drawable-hdpi-v4/ic_launcher.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/iOIOiRobot2/build/intermediates/exploded-aar/CleverRobot/iOIOLib/unspecified/res/drawable-mdpi-v4/ic_action_search.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/iOIOiRobot2/build/intermediates/exploded-aar/CleverRobot/iOIOLib/unspecified/res/drawable-mdpi-v4/ic_launcher.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/iOIOiRobot2/build/intermediates/exploded-aar/CleverRobot/iOIOLib/unspecified/res/drawable-xhdpi-v4/ic_action_search.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/iOIOiRobot2/build/intermediates/exploded-aar/CleverRobot/iOIOLib/unspecified/res/drawable-xhdpi-v4/ic_launcher.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/iOIOiRobot2/build/intermediates/exploded-aar/CleverRobot/iOIOLib/unspecified/res/values/values.xml" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GreenBot2016/build/intermediates/classes/androidTest/debug/org/jointheleague/erik/cleverrobot/test/BuildConfig.class" afterPath="$PROJECT_DIR$/GreenBot2016/build/intermediates/classes/androidTest/debug/org/jointheleague/erik/cleverrobot/test/BuildConfig.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/iOIOLib/build/intermediates/classes/androidTest/debug/ioio/lib/test/BuildConfig.class" afterPath="$PROJECT_DIR$/iOIOLib/build/intermediates/classes/androidTest/debug/ioio/lib/test/BuildConfig.class" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/GreenBot2016/build/intermediates/pre-dexed/debug/GreenBot2016-iOIOLib-unspecified_e09f8bf48a6fe7293e64835fc738f93366ee7695.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/GreenBot2016/build/intermediates/pre-dexed/debug/GreenBot2016-iOIOiRobot2-unspecified_17fa734007f0368594c6bed021affc8f0303a921.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/GreenBot2016/build/intermediates/pre-dexed/debug/com.android.support-support-v4-22.1.1_3106485a75c1ec0ce9258f2af60ecf9e91bc5a2d.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/GreenBot2016/build/intermediates/pre-dexed/debug/debug_5d8e182dd3bca3833ec14213930d6518fbb1ade6.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/GreenBot2016/build/intermediates/pre-dexed/debug/internal_impl-22.1.1_811a2429a848425b1d84636f4385428e5849346d.jar" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GreenBot2016/build/outputs/apk/GreenBot2016-debug-unaligned.apk" afterPath="$PROJECT_DIR$/GreenBot2016/build/outputs/apk/GreenBot2016-debug-unaligned.apk" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GreenBot2016/build/outputs/apk/GreenBot2016-debug.apk" afterPath="$PROJECT_DIR$/GreenBot2016/build/outputs/apk/GreenBot2016-debug.apk" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GreenBot2016/build/intermediates/classes/debug/org/jointheleague/erik/cleverrobot/Pilot.class" afterPath="$PROJECT_DIR$/GreenBot2016/build/intermediates/classes/debug/org/jointheleague/erik/cleverrobot/Pilot.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/iOIOLib/build/intermediates/classes/androidTest/debug/ioio/lib/test/R$attr.class" afterPath="$PROJECT_DIR$/iOIOLib/build/intermediates/classes/androidTest/debug/ioio/lib/test/R$attr.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/iOIOLib/build/intermediates/classes/androidTest/debug/ioio/lib/R$drawable.class" afterPath="$PROJECT_DIR$/iOIOLib/build/intermediates/classes/androidTest/debug/ioio/lib/R$drawable.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/iOIOLib/build/intermediates/classes/androidTest/debug/ioio/lib/test/R$drawable.class" afterPath="$PROJECT_DIR$/iOIOLib/build/intermediates/classes/androidTest/debug/ioio/lib/test/R$drawable.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/iOIOLib/build/intermediates/classes/androidTest/debug/ioio/lib/R$string.class" afterPath="$PROJECT_DIR$/iOIOLib/build/intermediates/classes/androidTest/debug/ioio/lib/R$string.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/iOIOLib/build/intermediates/classes/androidTest/debug/ioio/lib/test/R$string.class" afterPath="$PROJECT_DIR$/iOIOLib/build/intermediates/classes/androidTest/debug/ioio/lib/test/R$string.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/iOIOLib/build/intermediates/classes/androidTest/debug/ioio/lib/R$style.class" afterPath="$PROJECT_DIR$/iOIOLib/build/intermediates/classes/androidTest/debug/ioio/lib/R$style.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/iOIOLib/build/intermediates/classes/androidTest/debug/ioio/lib/test/R$style.class" afterPath="$PROJECT_DIR$/iOIOLib/build/intermediates/classes/androidTest/debug/ioio/lib/test/R$style.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/iOIOLib/build/intermediates/classes/androidTest/debug/ioio/lib/R.class" afterPath="$PROJECT_DIR$/iOIOLib/build/intermediates/classes/androidTest/debug/ioio/lib/R.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/iOIOLib/build/intermediates/classes/androidTest/debug/ioio/lib/test/R.class" afterPath="$PROJECT_DIR$/iOIOLib/build/intermediates/classes/androidTest/debug/ioio/lib/test/R.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.8/taskArtifacts/cache.properties.lock" afterPath="$PROJECT_DIR$/.gradle/2.8/taskArtifacts/cache.properties.lock" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GreenBot2016/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex" afterPath="$PROJECT_DIR$/GreenBot2016/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GreenBot2016/build/intermediates/exploded-aar/GreenBot2016/iOIOLib/unspecified/jars/classes.jar" afterPath="$PROJECT_DIR$/GreenBot2016/build/intermediates/exploded-aar/GreenBot2016/iOIOLib/unspecified/jars/classes.jar" />
@@ -271,11 +40,7 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GreenBot2016/build/intermediates/res/resources-debug.ap_" afterPath="$PROJECT_DIR$/GreenBot2016/build/intermediates/res/resources-debug.ap_" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GreenBot2016/build/intermediates/pre-dexed/debug/support-annotations-22.1.1_df103917a223e607a3eed27c98cf0bf30a239ab3.jar" afterPath="$PROJECT_DIR$/GreenBot2016/build/intermediates/pre-dexed/debug/support-annotations-22.1.1_df103917a223e607a3eed27c98cf0bf30a239ab3.jar" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.8/taskArtifacts/taskArtifacts.bin" afterPath="$PROJECT_DIR$/.gradle/2.8/taskArtifacts/taskArtifacts.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GreenBot2016/build/intermediates/manifest/androidTest/debug/AndroidManifest.xml" afterPath="$PROJECT_DIR$/GreenBot2016/build/intermediates/manifest/androidTest/debug/AndroidManifest.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GreenBot2016/build/intermediates/manifests/full/debug/AndroidManifest.xml" afterPath="$PROJECT_DIR$/GreenBot2016/build/intermediates/manifests/full/debug/AndroidManifest.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GreenBot2016/src/main/java/org/jointheleague/erik/cleverrobot/Pilot.java" afterPath="$PROJECT_DIR$/GreenBot2016/src/main/java/org/jointheleague/erik/cleverrobot/Pilot.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GreenBot2016/build.gradle" afterPath="$PROJECT_DIR$/GreenBot2016/build.gradle" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/dex-cache/cache.xml" afterPath="$PROJECT_DIR$/build/intermediates/dex-cache/cache.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GreenBot2016/build/intermediates/blame/res/debug/single/drawable-hdpi-v4.json" afterPath="$PROJECT_DIR$/GreenBot2016/build/intermediates/blame/res/debug/single/drawable-hdpi-v4.json" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/iOIOLib/build/intermediates/blame/res/androidTest/debug/single/drawable-hdpi-v4.json" afterPath="$PROJECT_DIR$/iOIOLib/build/intermediates/blame/res/androidTest/debug/single/drawable-hdpi-v4.json" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/iOIOiRobot2/build/intermediates/blame/res/androidTest/debug/single/drawable-hdpi-v4.json" afterPath="$PROJECT_DIR$/iOIOiRobot2/build/intermediates/blame/res/androidTest/debug/single/drawable-hdpi-v4.json" />
@@ -328,7 +93,7 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/iOIOiRobot2/build/intermediates/blame/res/androidTest/debug/multi/values.json" afterPath="$PROJECT_DIR$/iOIOiRobot2/build/intermediates/blame/res/androidTest/debug/multi/values.json" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/iOIOiRobot2/build/intermediates/blame/res/debug/multi/values.json" afterPath="$PROJECT_DIR$/iOIOiRobot2/build/intermediates/blame/res/debug/multi/values.json" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/iOIOiRobot2/build/intermediates/blame/res/release/multi/values.json" afterPath="$PROJECT_DIR$/iOIOiRobot2/build/intermediates/blame/res/release/multi/values.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="GreenBot2016.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -401,11 +166,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Pilot.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Pilot.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/GreenBot2016/src/main/java/org/jointheleague/erik/cleverrobot/Pilot.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="54" column="24" selection-start-line="54" selection-start-column="24" selection-end-line="54" selection-end-column="24" />
+              <caret line="55" column="48" selection-start-line="55" selection-start-column="48" selection-end-line="55" selection-end-column="48" />
               <folding />
             </state>
           </provider>
@@ -481,10 +246,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="local.properties" pinned="false" current-in-tab="true">
+      <file leaf-file-name="local.properties" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/local.properties">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.4373178">
+            <state vertical-scroll-proportion="0.0">
               <caret line="10" column="8" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="41" />
               <folding />
             </state>
@@ -2900,7 +2665,7 @@
     </option>
     <option name="modificationStamps">
       <map>
-        <entry key="$PROJECT_DIR$" value="7300158008000" />
+        <entry key="$PROJECT_DIR$" value="7318496660000" />
       </map>
     </option>
     <option name="projectBuildClasspath">
@@ -3486,10 +3251,10 @@
     <order />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="10" />
-    <option name="y" value="43" />
-    <option name="width" value="1260" />
-    <option name="height" value="669" />
+    <option name="x" value="382" />
+    <option name="y" value="63" />
+    <option name="width" value="1400" />
+    <option name="height" value="937" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
@@ -3514,7 +3279,8 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
+      <pane id="ProjectPane" />
+      <pane id="Scratches" />
       <pane id="AndroidView">
         <subPane>
           <PATH>
@@ -3561,24 +3327,9 @@
               <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidPsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="GreenBot2016" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="GreenBot2016-GreenBot2016" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="manifests" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidManifestsGroupNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
-      <pane id="ProjectPane" />
+      <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -3587,7 +3338,7 @@
     <property name="recentsLimit" value="5" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
     <property name="FullScreen" value="false" />
-    <property name="ANDROID_EXTENDED_DEVICE_CHOOSER_SERIALS" value="HT03GHM00070" />
+    <property name="ANDROID_EXTENDED_DEVICE_CHOOSER_SERIALS" value="HT08THM01149" />
   </component>
   <component name="RunManager" selected="Android Application.GreenBot2016-GreenBot2016">
     <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
@@ -3699,7 +3450,7 @@
       <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
       <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
       <option name="FORCE_STOP_RUNNING_APP" value="true" />
-      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="true" />
       <option name="PREFERRED_AVD" value="" />
       <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
       <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
@@ -3737,7 +3488,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="10" y="43" width="1260" height="669" extended-state="0" />
+    <frame x="382" y="63" width="1400" height="937" extended-state="0" />
     <editor active="false" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -3748,7 +3499,7 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Android Monitor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32911393" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Android Monitor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32886723" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32911393" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -3756,7 +3507,7 @@
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24958949" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24889544" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Android Model" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
@@ -3787,6 +3538,166 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/GreenBot2016/src/main/java/org/jointheleague/erik/cleverrobot/Pilot.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GreenBot2016/src/main/AndroidManifest.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="8" column="41" selection-start-line="8" selection-start-column="41" selection-end-line="8" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GreenBot2016/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="4" column="23" selection-start-line="4" selection-start-column="23" selection-end-line="4" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/iOIOLib/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/iOIOiRobot2/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/settings.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/local.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="10" column="8" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GreenBot2016/src/main/java/org/jointheleague/erik/cleverrobot/Dashboard.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="38" column="13" selection-start-line="38" selection-start-column="13" selection-end-line="38" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GreenBot2016/src/main/java/org/jointheleague/erik/cleverrobot/Pilot.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="54" column="0" selection-start-line="54" selection-start-column="0" selection-end-line="54" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GreenBot2016/src/main/AndroidManifest.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="8" column="41" selection-start-line="8" selection-start-column="41" selection-end-line="8" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GreenBot2016/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="4" column="23" selection-start-line="4" selection-start-column="23" selection-end-line="4" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/iOIOLib/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/iOIOiRobot2/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/settings.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/local.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GreenBot2016/src/main/java/org/jointheleague/erik/cleverrobot/Dashboard.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="38" column="13" selection-start-line="38" selection-start-column="13" selection-end-line="38" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/GreenBot2016/src/main/java/org/jointheleague/erik/cleverrobot/Pilot.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -3856,22 +3767,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/GreenBot2016/src/main/java/org/jointheleague/erik/cleverrobot/Dashboard.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="38" column="13" selection-start-line="38" selection-start-column="13" selection-end-line="38" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/GreenBot2016/src/main/java/org/jointheleague/erik/cleverrobot/Pilot.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="54" column="24" selection-start-line="54" selection-start-column="24" selection-end-line="54" selection-end-column="24" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/GreenBot2016/src/main/AndroidManifest.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -3884,14 +3779,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/GreenBot2016/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="4" column="23" selection-start-line="4" selection-start-column="23" selection-end-line="4" selection-end-column="23" />
           <folding />
         </state>
       </provider>
@@ -3930,8 +3817,32 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/local.properties">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.4373178">
+        <state vertical-scroll-proportion="0.0">
           <caret line="10" column="8" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GreenBot2016/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="4" column="23" selection-start-line="4" selection-start-column="23" selection-end-line="4" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GreenBot2016/src/main/java/org/jointheleague/erik/cleverrobot/Dashboard.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="38" column="13" selection-start-line="38" selection-start-column="13" selection-end-line="38" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GreenBot2016/src/main/java/org/jointheleague/erik/cleverrobot/Pilot.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="55" column="48" selection-start-line="55" selection-start-column="48" selection-end-line="55" selection-end-column="48" />
           <folding />
         </state>
       </provider>
