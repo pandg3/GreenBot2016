@@ -3,7 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/GreenBot2016.iml" filepath="$PROJECT_DIR$/GreenBot2016.iml" />
-      <module fileurl="file://$PROJECT_DIR$/GreenBot2016/GreenBot2016-GreenBot2016.iml" filepath="$PROJECT_DIR$/GreenBot2016/GreenBot2016-GreenBot2016.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SupersonicRoomba.iml" filepath="$PROJECT_DIR$/SupersonicRoomba.iml" />
       <module fileurl="file://$PROJECT_DIR$/iOIOLib/iOIOLib.iml" filepath="$PROJECT_DIR$/iOIOLib/iOIOLib.iml" />
       <module fileurl="file://$PROJECT_DIR$/iOIOiRobot2/iOIOiRobot2.iml" filepath="$PROJECT_DIR$/iOIOiRobot2/iOIOiRobot2.iml" />
     </modules>

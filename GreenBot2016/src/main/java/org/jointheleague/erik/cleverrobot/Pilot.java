@@ -51,8 +51,10 @@ public class Pilot extends IRobotAdapter {
 
     /** This method is called repeatedly. **/
     public void loop() throws ConnectionLostException {
-            readSensors(SENSORS_GROUP_ID6);
-
+        readSensors(SENSORS_GROUP_ID6);
+        Goldrush();
+    }
+            void maze()throws ConnectionLostException {
             dashboard.log(getWallSignal() + "");
             drive(200,-220);
             if (isBumpRight() == true || getWallSignal() >30) {
@@ -65,8 +67,24 @@ public class Pilot extends IRobotAdapter {
                 driveDirect(-400, 500);
                 SystemClock.sleep(3);
             }
+        }
+        public void Goldrush()throws ConnectionLostException {
+        if (getInfraredByte()==164||getInfraredByte()==165) {
+            driveDirect(75,-25);
+        }
+            else if (getInfraredByte()==168||getInfraredByte()==169) {
+            driveDirect(-25,75);
+        }
+            else{
+            SystemClock.sleep(500);
+             driveDirect(100,-50);
+            }
 
             }
+
+
+
+
 
 
 
