@@ -39,6 +39,7 @@ public class Pilot extends IRobotAdapter {
         sonar = new UltraSonicSensors(ioio);
         this.dashboard = dashboard;
         dashboard.log(dashboard.getString(R.string.hello));
+        readSensors(SENSORS_ANGLE);
     }
 
     /** This method is executed when the robot first starts up. **/
@@ -52,7 +53,9 @@ public class Pilot extends IRobotAdapter {
     /** This method is called repeatedly. **/
     public void loop() throws ConnectionLostException {
         readSensors(SENSORS_GROUP_ID6);
-        Goldrush();
+
+
+        Dragrace();
     }
             void maze()throws ConnectionLostException {
             dashboard.log(getWallSignal() + "");
@@ -69,6 +72,7 @@ public class Pilot extends IRobotAdapter {
             }
         }
         public void Goldrush()throws ConnectionLostException {
+
         if (getInfraredByte()==164||getInfraredByte()==165) {
             driveDirect(75,-25);
         }
@@ -81,6 +85,19 @@ public class Pilot extends IRobotAdapter {
             }
 
             }
+    public void Dragrace() throws ConnectionLostException {
+        //driveDirect(500,490);
+        int[] lights = getLightBumps();
+       dashboard.log("Sensor " + lights);
+        if (SENSORS_ANGLE == 1 || getWallSignal() >30) {
+            dashboard.log("Bump - Left");
+            //driveDirect(-400, 500);
+            SystemClock.sleep(3);
+
+        }
+    }
+
+
 
 
 
