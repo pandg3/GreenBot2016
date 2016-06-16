@@ -88,7 +88,7 @@ public class Pilot extends IRobotAdapter {
     public void Dragrace() throws ConnectionLostException {
         //driveDirect(500,490);
         int[] lights = getLightBumps();
-       dashboard.log("Sensor " + lights);
+       dashboard.log("Sensor " + lights[1]);
         if (SENSORS_ANGLE == 1 || getWallSignal() >30) {
             dashboard.log("Bump - Left");
             //driveDirect(-400, 500);
