@@ -52,18 +52,24 @@ public class Pilot extends IRobotAdapter {
 
     /** This method is called repeatedly. **/
     public void loop() throws ConnectionLostException {
-        readSensors(SENSORS_GROUP_ID6);
+        readSensors(SENSORS_GROUP_ID100);
 
 
-        Dragrace();
+       Dragrace();
     }
             void maze()throws ConnectionLostException {
             dashboard.log(getWallSignal() + "");
-            drive(200,-220);
+
+            drive(500,-220);
             if (isBumpRight() == true || getWallSignal() >30) {
                 dashboard.log("Bump - Left");
                 driveDirect(-400, 500);
                 SystemClock.sleep(3);
+            }
+
+            else if (isBumpLeft() == true){
+                dashboard.log("Bump - Right");
+
             }
             else if (isBumpRight() == true && isBumpLeft() == true) {
                 dashboard.log("Bump - Both");
@@ -86,17 +92,38 @@ public class Pilot extends IRobotAdapter {
 
             }
     public void Dragrace() throws ConnectionLostException {
-        //driveDirect(500,490);
+          driveDirect(500,500);
         int[] lights = getLightBumps();
-       dashboard.log("Sensor " + lights[1]);
-        if (SENSORS_ANGLE == 1 || getWallSignal() >30) {
-            dashboard.log("Bump - Left");
-            //driveDirect(-400, 500);
-            SystemClock.sleep(3);
-
+        if (isBumpLeft() || isBumpRight()){
+            driveDirect(-400,-400);
+            SystemClock.sleep(700);
+            drive(500, 10 );
+            SystemClock.sleep(500);
         }
+
+
+           else if (lights[5] >2 || lights[4] >2||lights[3] >2 ){
+          driveDirect (0,500);
+
+                dashboard.log("Right");
+                SystemClock.sleep(50);
+        }
+        else if (lights[0] >2 || lights[1] >2 || lights[2] >2 ) {
+                driveDirect (500,0);
+                dashboard.log("left");
+                SystemClock.sleep(50);
+            }
+
+
+        //for (int i = 0; i<6; i++) {
+            //dashboard.log("Sensor "+ i + " = " +lights[i]);
+
+            //SystemClock.sleep(100);
+       // }
+
     }
 
+    //reminder: do powerpoint presentation at home. :P
 
 
 
