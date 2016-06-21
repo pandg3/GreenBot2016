@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="org.jointheleague.erik.cleverrobot.test">
+    package="org.jointheleague.erik.cleverrobot1.test">
 
     <uses-sdk android:minSdkVersion="7" android:targetSdkVersion="8" />
 
@@ -9,8 +9,8 @@
     </application>
 
     <instrumentation android:name="android.test.InstrumentationTestRunner"
-                     android:targetPackage="org.jointheleague.erik.cleverrobot"
+                     android:targetPackage="org.jointheleague.erik.cleverrobot1"
                      android:handleProfiling="false"
                      android:functionalTest="false"
-                     android:label="Tests for org.jointheleague.erik.cleverrobot"/>
+                     android:label="Tests for org.jointheleague.erik.cleverrobot1"/>
 </manifest>

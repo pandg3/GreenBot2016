@@ -42,99 +42,92 @@ public class Pilot extends IRobotAdapter {
         readSensors(SENSORS_ANGLE);
     }
 
-    /** This method is executed when the robot first starts up. **/
+    /**
+     * This method is executed when the robot first starts up.
+     **/
     public void initialize() throws ConnectionLostException {
         //what would you like me to do, Clever Human?
 
 
-
     }
 
-    /** This method is called repeatedly. **/
+    /**
+     * This method is called repeatedly.
+     **/
     public void loop() throws ConnectionLostException {
         readSensors(SENSORS_GROUP_ID100);
+        leds(139, 4, true);
+       leftmaze();
 
 
-       Dragrace();
+
     }
-            void maze()throws ConnectionLostException {
-            dashboard.log(getWallSignal() + "");
 
-            drive(500,-220);
-            if (isBumpRight() == true || getWallSignal() >30) {
-                dashboard.log("Bump - Left");
-                driveDirect(-400, 500);
-                SystemClock.sleep(3);
-            }
+    void rightmaze() throws ConnectionLostException {
+        dashboard.log(getWallSignal() + "");
+        int Mlights[] = getLightBumps();
+        drive(500, -220);
+        if (Mlights[5] > 1 || Mlights[4] > 1 || Mlights[3] > 1) {
+            driveDirect(220, 500);
+            SystemClock.sleep(3);
 
-            else if (isBumpLeft() == true){
-                dashboard.log("Bump - Right");
 
-            }
-            else if (isBumpRight() == true && isBumpLeft() == true) {
-                dashboard.log("Bump - Both");
-                driveDirect(-400, 500);
-                SystemClock.sleep(3);
-            }
         }
-        public void Goldrush()throws ConnectionLostException {
+    }
 
-        if (getInfraredByte()==164||getInfraredByte()==165) {
-            driveDirect(75,-25);
+    public void leftmaze() throws ConnectionLostException {
+        dashboard.log(getWallSignal() + "");
+        int Mlights[] = getLightBumps();
+        drive(500, 220);
+        if (Mlights[0] > 1 || Mlights[1] > 1 || Mlights[2] > 1) {
+            driveDirect(500, 220);
+            SystemClock.sleep(3);
+
         }
-            else if (getInfraredByte()==168||getInfraredByte()==169) {
-            driveDirect(-25,75);
-        }
-            else{
+    }
+
+    public void Goldrush() throws ConnectionLostException {
+
+        if (getInfraredByte() == 164 || getInfraredByte() == 165) {
+            driveDirect(75, -25);
+        } else if (getInfraredByte() == 168 || getInfraredByte() == 169) {
+            driveDirect(-25, 75);
+        } else {
             SystemClock.sleep(500);
-             driveDirect(100,-50);
-            }
+            driveDirect(100, -50);
+        }
 
-            }
+    }
+
     public void Dragrace() throws ConnectionLostException {
-          driveDirect(500,500);
+        driveDirect(500, 500);
         int[] lights = getLightBumps();
-        if (isBumpLeft() || isBumpRight()){
-            driveDirect(-400,-400);
+        if (isBumpLeft() || isBumpRight()) {
+            driveDirect(-400, -400);
             SystemClock.sleep(700);
-            drive(500, 10 );
+            drive(500, 10);
             SystemClock.sleep(500);
+        } else if (lights[5] > 2 || lights[4] > 2 || lights[3] > 2) {
+            driveDirect(0, 500);
+
+            dashboard.log("Right");
+            SystemClock.sleep(50);
+        } else if (lights[0] > 2 || lights[1] > 2 || lights[2] > 2) {
+            driveDirect(500, 0);
+            dashboard.log("left");
+            SystemClock.sleep(50);
         }
-
-
-           else if (lights[5] >2 || lights[4] >2||lights[3] >2 ){
-          driveDirect (0,500);
-
-                dashboard.log("Right");
-                SystemClock.sleep(50);
-        }
-        else if (lights[0] >2 || lights[1] >2 || lights[2] >2 ) {
-                driveDirect (500,0);
-                dashboard.log("left");
-                SystemClock.sleep(50);
-            }
 
 
         //for (int i = 0; i<6; i++) {
-            //dashboard.log("Sensor "+ i + " = " +lights[i]);
+        //dashboard.log("Sensor "+ i + " = " +lights[i]);
 
-            //SystemClock.sleep(100);
-       // }
+        //SystemClock.sleep(100);
+        // }
 
     }
 
     //reminder: do powerpoint presentation at home. :P
-
-
-
-
-
-
-
-
-
-
-
 
 
     /**

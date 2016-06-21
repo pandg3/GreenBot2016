@@ -4,7 +4,9 @@ android {
     compileSdkVersion 8
     buildToolsVersion "22.0.1"
     defaultConfig {
-        applicationId "org.jointheleague.erik.cleverrobot"
+        applicationId "org.jointheleague.erik.cleverrobot1"
+        //cleverrobot2 - Right Maze Code
+        //cleverrobot1 - Left Maze Code
         minSdkVersion 7
         targetSdkVersion 8
     }
