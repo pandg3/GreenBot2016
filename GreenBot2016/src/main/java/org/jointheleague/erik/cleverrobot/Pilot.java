@@ -57,8 +57,7 @@ public class Pilot extends IRobotAdapter {
     public void loop() throws ConnectionLostException {
         readSensors(SENSORS_GROUP_ID100);
         leds(139, 4, true);
-       leftmaze();
-
+        rightmaze();
 
 
     }
@@ -68,7 +67,7 @@ public class Pilot extends IRobotAdapter {
         int Mlights[] = getLightBumps();
         drive(500, -220);
         if (Mlights[5] > 1 || Mlights[4] > 1 || Mlights[3] > 1) {
-            driveDirect(220, 500);
+            driveDirect(-220, 500);
             SystemClock.sleep(3);
 
 
@@ -80,7 +79,7 @@ public class Pilot extends IRobotAdapter {
         int Mlights[] = getLightBumps();
         drive(500, 220);
         if (Mlights[0] > 1 || Mlights[1] > 1 || Mlights[2] > 1) {
-            driveDirect(500, 220);
+            driveDirect(500, -220);
             SystemClock.sleep(3);
 
         }
@@ -102,20 +101,36 @@ public class Pilot extends IRobotAdapter {
     public void Dragrace() throws ConnectionLostException {
         driveDirect(500, 500);
         int[] lights = getLightBumps();
-        if (isBumpLeft() || isBumpRight()) {
+        //Turn Left
+         if (isBumpLeft() && isBumpRight()) {
+            dashboard.log("Turn around");
             driveDirect(-400, -400);
-            SystemClock.sleep(700);
-            drive(500, 10);
-            SystemClock.sleep(500);
-        } else if (lights[5] > 2 || lights[4] > 2 || lights[3] > 2) {
+            SystemClock.sleep(1400);
+            driveDirect(500, -500);
+            SystemClock.sleep(900); }
+
+
+        //Turn Around
+
+        else if (lights[5] > 1 || lights[4] > 1 || lights[3] > 1) {
             driveDirect(0, 500);
 
             dashboard.log("Right");
             SystemClock.sleep(50);
-        } else if (lights[0] > 2 || lights[1] > 2 || lights[2] > 2) {
+        } else if (lights[0] > 1 || lights[1] > 1 || lights[2] > 1) {
             driveDirect(500, 0);
             dashboard.log("left");
             SystemClock.sleep(50);
+        } else if (isBumpRight()) {
+            driveDirect(-500, -500);
+            SystemClock.sleep(300);
+            driveDirect(100, 500);
+            SystemClock.sleep(100);
+        } else if (isBumpLeft()) {
+            driveDirect(-500, -500);
+            SystemClock.sleep(300);
+            driveDirect(500, 100);
+            SystemClock.sleep(100);
         }
 
 
