@@ -7,6 +7,8 @@ import org.jointheleague.erik.cleverrobot.sensors.UltraSonicSensors;
 import org.jointheleague.erik.irobot.IRobotAdapter;
 import org.jointheleague.erik.irobot.IRobotInterface;
 
+import java.util.Random;
+
 import ioio.lib.api.IOIO;
 import ioio.lib.api.exception.ConnectionLostException;
 
@@ -57,7 +59,7 @@ public class Pilot extends IRobotAdapter {
     public void loop() throws ConnectionLostException {
         readSensors(SENSORS_GROUP_ID100);
         leds(139, 4, true);
-        rightmaze();
+      Goldrush();
 
 
     }
@@ -86,17 +88,22 @@ public class Pilot extends IRobotAdapter {
     }
 
     public void Goldrush() throws ConnectionLostException {
+        if (getInfraredByte() == 248 || getInfraredByte() == 250) {
+//right infared
+            driveDirect(-100, 100);
+        }
+        else if (getInfraredByte() == 248 || getInfraredByte() == 250){
 
-        if (getInfraredByte() == 164 || getInfraredByte() == 165) {
-            driveDirect(75, -25);
-        } else if (getInfraredByte() == 168 || getInfraredByte() == 169) {
-            driveDirect(-25, 75);
-        } else {
-            SystemClock.sleep(500);
-            driveDirect(100, -50);
+        }
+        else {
+            leftmaze();
+            }
+            SystemClock.sleep(5000);
         }
 
-    }
+
+
+
 
     public void Dragrace() throws ConnectionLostException {
         driveDirect(500, 500);

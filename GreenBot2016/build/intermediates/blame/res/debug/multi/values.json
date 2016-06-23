@@ -7,8 +7,8 @@
                     "startLine": 2,
                     "startColumn": 4,
                     "startOffset": 55,
-                    "endColumn": 47,
-                    "endOffset": 98
+                    "endColumn": 45,
+                    "endOffset": 96
                 },
                 "from": {
                     "file": "C:\\Users\\Joe_Jyothi\\Desktop\\SupersonicRoomba\\GreenBot2016\\src\\main\\res\\values\\strings.xml",
@@ -16,8 +16,8 @@
                         "startLine": 3,
                         "startColumn": 4,
                         "startOffset": 118,
-                        "endColumn": 47,
-                        "endOffset": 161
+                        "endColumn": 45,
+                        "endOffset": 159
                     }
                 }
             },
@@ -25,171 +25,108 @@
                 "to": {
                     "startLine": 3,
                     "startColumn": 4,
-                    "startOffset": 103,
+                    "startOffset": 101,
                     "endColumn": 59,
-                    "endOffset": 158
+                    "endOffset": 156
                 },
                 "from": {
-                    "file": "C:\\Users\\Joe_Jyothi\\Desktop\\SupersonicRoomba\\GreenBot2016\\src\\main\\res\\values\\strings.xml",
-                    "position": {
-                        "startLine": 2,
-                        "startColumn": 4,
-                        "startOffset": 57,
-                        "endColumn": 59,
-                        "endOffset": 112
-                    }
+                    "file": "C:\\Users\\Joe_Jyothi\\Desktop\\SupersonicRoomba\\GreenBot2016\\src\\main\\res\\values\\strings.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 4,
                     "startColumn": 4,
-                    "startOffset": 163,
+                    "startOffset": 161,
                     "endColumn": 57,
-                    "endOffset": 216
+                    "endOffset": 214
                 },
                 "from": {
-                    "file": "C:\\Users\\Joe_Jyothi\\Desktop\\SupersonicRoomba\\GreenBot2016\\src\\main\\res\\values\\strings.xml",
-                    "position": {
-                        "startLine": 5,
-                        "startColumn": 4,
-                        "startOffset": 241,
-                        "endColumn": 57,
-                        "endOffset": 294
-                    }
+                    "file": "C:\\Users\\Joe_Jyothi\\Desktop\\SupersonicRoomba\\GreenBot2016\\src\\main\\res\\values\\strings.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 5,
                     "startColumn": 4,
-                    "startOffset": 221,
+                    "startOffset": 219,
                     "endColumn": 63,
-                    "endOffset": 280
+                    "endOffset": 278
                 },
                 "from": {
-                    "file": "C:\\Users\\Joe_Jyothi\\Desktop\\SupersonicRoomba\\GreenBot2016\\src\\main\\res\\values\\strings.xml",
-                    "position": {
-                        "startLine": 8,
-                        "startColumn": 4,
-                        "startOffset": 441,
-                        "endColumn": 63,
-                        "endOffset": 500
-                    }
+                    "file": "C:\\Users\\Joe_Jyothi\\Desktop\\SupersonicRoomba\\GreenBot2016\\src\\main\\res\\values\\strings.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 6,
                     "startColumn": 4,
-                    "startOffset": 285,
+                    "startOffset": 283,
                     "endColumn": 61,
-                    "endOffset": 342
+                    "endOffset": 340
                 },
                 "from": {
-                    "file": "C:\\Users\\Joe_Jyothi\\Desktop\\SupersonicRoomba\\GreenBot2016\\src\\main\\res\\values\\strings.xml",
-                    "position": {
-                        "startLine": 7,
-                        "startColumn": 4,
-                        "startOffset": 378,
-                        "endColumn": 61,
-                        "endOffset": 435
-                    }
+                    "file": "C:\\Users\\Joe_Jyothi\\Desktop\\SupersonicRoomba\\GreenBot2016\\src\\main\\res\\values\\strings.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 7,
                     "startColumn": 4,
-                    "startOffset": 347,
+                    "startOffset": 345,
                     "endColumn": 43,
-                    "endOffset": 386
+                    "endOffset": 384
                 },
                 "from": {
-                    "file": "C:\\Users\\Joe_Jyothi\\Desktop\\SupersonicRoomba\\GreenBot2016\\src\\main\\res\\values\\strings.xml",
-                    "position": {
-                        "startLine": 10,
-                        "startColumn": 4,
-                        "startOffset": 542,
-                        "endColumn": 43,
-                        "endOffset": 581
-                    }
+                    "file": "C:\\Users\\Joe_Jyothi\\Desktop\\SupersonicRoomba\\GreenBot2016\\src\\main\\res\\values\\strings.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 8,
                     "startColumn": 4,
-                    "startOffset": 391,
+                    "startOffset": 389,
                     "endColumn": 66,
-                    "endOffset": 453
+                    "endOffset": 451
                 },
                 "from": {
-                    "file": "C:\\Users\\Joe_Jyothi\\Desktop\\SupersonicRoomba\\GreenBot2016\\src\\main\\res\\values\\strings.xml",
-                    "position": {
-                        "startLine": 4,
-                        "startColumn": 4,
-                        "startOffset": 167,
-                        "endColumn": 72,
-                        "endOffset": 235
-                    }
+                    "file": "C:\\Users\\Joe_Jyothi\\Desktop\\SupersonicRoomba\\GreenBot2016\\src\\main\\res\\values\\strings.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 9,
                     "startColumn": 4,
-                    "startOffset": 458,
+                    "startOffset": 456,
                     "endColumn": 70,
-                    "endOffset": 524
+                    "endOffset": 522
                 },
                 "from": {
-                    "file": "C:\\Users\\Joe_Jyothi\\Desktop\\SupersonicRoomba\\GreenBot2016\\src\\main\\res\\values\\strings.xml",
-                    "position": {
-                        "startLine": 6,
-                        "startColumn": 4,
-                        "startOffset": 300,
-                        "endColumn": 76,
-                        "endOffset": 372
-                    }
+                    "file": "C:\\Users\\Joe_Jyothi\\Desktop\\SupersonicRoomba\\GreenBot2016\\src\\main\\res\\values\\strings.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 10,
                     "startColumn": 4,
-                    "startOffset": 529,
+                    "startOffset": 527,
                     "endColumn": 34,
-                    "endOffset": 559
+                    "endOffset": 557
                 },
                 "from": {
-                    "file": "C:\\Users\\Joe_Jyothi\\Desktop\\SupersonicRoomba\\GreenBot2016\\src\\main\\res\\values\\strings.xml",
-                    "position": {
-                        "startLine": 9,
-                        "startColumn": 4,
-                        "startOffset": 506,
-                        "endColumn": 34,
-                        "endOffset": 536
-                    }
+                    "file": "C:\\Users\\Joe_Jyothi\\Desktop\\SupersonicRoomba\\GreenBot2016\\src\\main\\res\\values\\strings.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 11,
                     "startColumn": 4,
-                    "startOffset": 564,
+                    "startOffset": 562,
                     "endColumn": 57,
-                    "endOffset": 617
+                    "endOffset": 615
                 },
                 "from": {
-                    "file": "C:\\Users\\Joe_Jyothi\\Desktop\\SupersonicRoomba\\GreenBot2016\\build\\intermediates\\exploded-aar\\SupersonicRoomba\\iOIOLib\\unspecified\\res\\values\\values.xml",
-                    "position": {
-                        "startLine": 3,
-                        "startColumn": 4,
-                        "startOffset": 100,
-                        "endColumn": 57,
-                        "endOffset": 153
-                    }
+                    "file": "C:\\Users\\Joe_Jyothi\\Desktop\\SupersonicRoomba\\GreenBot2016\\build\\intermediates\\exploded-aar\\SupersonicRoomba\\iOIOLib\\unspecified\\res\\values\\values.xml"
                 }
             }
         ]
