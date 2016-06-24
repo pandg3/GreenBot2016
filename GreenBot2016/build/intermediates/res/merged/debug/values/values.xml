@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Goldrush</string>
+    <string name="app_name">gold rush</string>
     <string name="hello">Hello! I\'m Clever Robot.</string>
     <string name="ioio_connected">IOIO connected</string>
     <string name="ioio_disconnected">IOIO disconnected</string>

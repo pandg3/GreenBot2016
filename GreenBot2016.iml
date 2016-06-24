@@ -70,14 +70,6 @@
       <sourceFolder url="file://$MODULE_DIR$/GreenBot2016/src/main/jni" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/GreenBot2016/src/main/rs" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/GreenBot2016/src/main/shaders" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/GreenBot2016/src/androidTest/res" type="java-test-resource" />
-      <sourceFolder url="file://$MODULE_DIR$/GreenBot2016/src/androidTest/resources" type="java-test-resource" />
-      <sourceFolder url="file://$MODULE_DIR$/GreenBot2016/src/androidTest/assets" type="java-test-resource" />
-      <sourceFolder url="file://$MODULE_DIR$/GreenBot2016/src/androidTest/aidl" isTestSource="true" />
-      <sourceFolder url="file://$MODULE_DIR$/GreenBot2016/src/androidTest/java" isTestSource="true" />
-      <sourceFolder url="file://$MODULE_DIR$/GreenBot2016/src/androidTest/jni" isTestSource="true" />
-      <sourceFolder url="file://$MODULE_DIR$/GreenBot2016/src/androidTest/rs" isTestSource="true" />
-      <sourceFolder url="file://$MODULE_DIR$/GreenBot2016/src/androidTest/shaders" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/GreenBot2016/src/test/res" type="java-test-resource" />
       <sourceFolder url="file://$MODULE_DIR$/GreenBot2016/src/test/resources" type="java-test-resource" />
       <sourceFolder url="file://$MODULE_DIR$/GreenBot2016/src/test/assets" type="java-test-resource" />
@@ -86,9 +78,16 @@
       <sourceFolder url="file://$MODULE_DIR$/GreenBot2016/src/test/jni" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/GreenBot2016/src/test/rs" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/GreenBot2016/src/test/shaders" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/GreenBot2016/src/androidTest/res" type="java-test-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/GreenBot2016/src/androidTest/resources" type="java-test-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/GreenBot2016/src/androidTest/assets" type="java-test-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/GreenBot2016/src/androidTest/aidl" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/GreenBot2016/src/androidTest/java" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/GreenBot2016/src/androidTest/jni" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/GreenBot2016/src/androidTest/rs" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/GreenBot2016/src/androidTest/shaders" isTestSource="true" />
       <excludeFolder url="file://$MODULE_DIR$/GreenBot2016/build/intermediates/assets" />
       <excludeFolder url="file://$MODULE_DIR$/GreenBot2016/build/intermediates/blame" />
-      <excludeFolder url="file://$MODULE_DIR$/GreenBot2016/build/intermediates/builds" />
       <excludeFolder url="file://$MODULE_DIR$/GreenBot2016/build/intermediates/bundles" />
       <excludeFolder url="file://$MODULE_DIR$/GreenBot2016/build/intermediates/classes" />
       <excludeFolder url="file://$MODULE_DIR$/GreenBot2016/build/intermediates/dependency-cache" />

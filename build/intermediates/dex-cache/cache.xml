@@ -1,3 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
-<items version="2" />
+<items version="2" >
 
+    <item
+        jar="C:\Users\Joe_Jyothi\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.1.1\support-annotations-22.1.1.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="01d051a6bfb1218b1db2d3a5af0480ac2c25c42a">
+        <dex dex="C:\Users\Joe_Jyothi\Desktop\SupersonicRoomba\GreenBot2016\build\intermediates\pre-dexed\debug\support-annotations-22.1.1_d842cf138a020ff5cc9b4700dd757b2f09430783.jar" />
+    </item>
+    <item
+        jar="C:\Users\Joe_Jyothi\Desktop\SupersonicRoomba\GreenBot2016\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="eda475d148f2e6ab308176357210493d172b7c86">
+        <dex dex="C:\Users\Joe_Jyothi\Desktop\SupersonicRoomba\GreenBot2016\build\intermediates\pre-dexed\debug\instant-run_2630d248ede2a3beea36cc943c074c53aa45f9d5.jar" />
+    </item>
+    <item
+        jar="C:\Users\Joe_Jyothi\Desktop\SupersonicRoomba\GreenBot2016\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="8f66318ab9f7dbff1953ba8e4aeae7fe2de9d881">
+        <dex dex="C:\Users\Joe_Jyothi\Desktop\SupersonicRoomba\GreenBot2016\build\intermediates\pre-dexed\debug\instant-run-bootstrap_ff23f037c95b53fc8cdff8e211187312864a9d2f.jar" />
+    </item>
+    <item
+        jar="C:\Users\Joe_Jyothi\Desktop\SupersonicRoomba\GreenBot2016\build\intermediates\exploded-aar\com.android.support\support-v4\22.1.1\jars\classes.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="c95ba8152923e4872e86a82cfcba9a51c0214328">
+        <dex dex="C:\Users\Joe_Jyothi\Desktop\SupersonicRoomba\GreenBot2016\build\intermediates\pre-dexed\debug\com.android.support-support-v4-22.1.1_9523cab9f0a7a71b60577295d91fd1abe2462c89.jar" />
+    </item>
+    <item
+        jar="C:\Users\Joe_Jyothi\Desktop\SupersonicRoomba\GreenBot2016\build\intermediates\exploded-aar\com.android.support\support-v4\22.1.1\jars\libs\internal_impl-22.1.1.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="9e070ad32b2700b0343e8e0cccc437733d91ba3a">
+        <dex dex="C:\Users\Joe_Jyothi\Desktop\SupersonicRoomba\GreenBot2016\build\intermediates\pre-dexed\debug\internal_impl-22.1.1_c9ea243fd56f332dfe06328a3465e79e75739913.jar" />
+    </item>
+
+</items>

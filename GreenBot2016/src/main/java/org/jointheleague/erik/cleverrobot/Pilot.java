@@ -58,8 +58,9 @@ public class Pilot extends IRobotAdapter {
      **/
     public void loop() throws ConnectionLostException {
         readSensors(SENSORS_GROUP_ID100);
+
         leds(139, 4, true);
-      Goldrush();
+        Goldrush();
 
 
     }
@@ -88,33 +89,45 @@ public class Pilot extends IRobotAdapter {
     }
 
     public void Goldrush() throws ConnectionLostException {
+        int Mlights[] = getLightBumps();
+dashboard.log("Running Gold");
         if (getInfraredByte() == 248 || getInfraredByte() == 250) {
 //right infared
             driveDirect(-100, 100);
-        }
-        else if (getInfraredByte() == 248 || getInfraredByte() == 250){
+        } else if (getInfraredByte() == 248 || getInfraredByte() == 250) {
+            driveDirect(100, -100);
+        } else {
+            int r = new Random().nextInt(2);
 
-        }
-        else {
-            leftmaze();
+            if (r == 1) {
+                drive(500, 220);
+                if (Mlights[0] > 1 || Mlights[1] > 1 || Mlights[2] > 1) {
+                    driveDirect(500, -220);
+                    SystemClock.sleep(3);
+                }
+            } else {
+                drive(500, -220);
+                if (Mlights[5] > 1 || Mlights[4] > 1 || Mlights[3] > 1) {
+                    driveDirect(-220, 500);
+                    SystemClock.sleep(3);
+                }
             }
-            SystemClock.sleep(5000);
+            SystemClock.sleep(100);
         }
-
-
-
+    }
 
 
     public void Dragrace() throws ConnectionLostException {
         driveDirect(500, 500);
         int[] lights = getLightBumps();
         //Turn Left
-         if (isBumpLeft() && isBumpRight()) {
+        if (isBumpLeft() && isBumpRight()) {
             dashboard.log("Turn around");
             driveDirect(-400, -400);
             SystemClock.sleep(1400);
             driveDirect(500, -500);
-            SystemClock.sleep(900); }
+            SystemClock.sleep(900);
+        }
 
 
         //Turn Around
